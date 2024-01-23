@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee58d5c2.css",
+    "main.js": "/static/js/main.788c2518.js",
+    "static/js/787.decf4750.chunk.js": "/static/js/787.decf4750.chunk.js",
+    "static/media/plant_background.jpeg": "/static/media/plant_background.61e501c3531ffbb70c74.jpeg",
+    "static/media/microgreendKit.jpg": "/static/media/microgreendKit.d0ab08509d5205d4fc17.jpg",
+    "static/media/MoneyTree.webp": "/static/media/MoneyTree.e9f339ce54a4db0e4825.webp",
+    "static/media/RattlesnakeCalathea.webp": "/static/media/RattlesnakeCalathea.a22d9de7960ef0f49cab.webp",
+    "static/media/FicusAltissima.webp": "/static/media/FicusAltissima.c069165cd5782d392ee6.webp",
+    "index.html": "/index.html",
+    "main.ee58d5c2.css.map": "/static/css/main.ee58d5c2.css.map",
+    "main.788c2518.js.map": "/static/js/main.788c2518.js.map",
+    "787.decf4750.chunk.js.map": "/static/js/787.decf4750.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee58d5c2.css",
+    "static/js/main.788c2518.js"
+  ]
+}
