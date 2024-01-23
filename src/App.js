@@ -4,7 +4,7 @@ import Contact from './contact'
 import Shop from './shop'
 import { BrowserRouter as Router,Routes, Route, Link } from 'react-router-dom';
 import './App.css';
-import Logo from "./photos/logo.png"
+//import Logo from "./photos/logo.png"
 
 function App() {
   return (

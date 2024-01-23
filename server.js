@@ -1,6 +1,6 @@
 
 const express = require('express');
-const mysql = require('mysql');
+const mysql = require('mysql2');
 const cors = require('cors');
 const e = require('express');
 const PORT = process.env.PORT || 8000;
@@ -24,7 +24,7 @@ app.get('/', (req, res) => {
 
 
 app.get('/products', (req, res) => {
-    const sql = "SELECT id, name, description, price, image, size FROM products";
+    const sql = "SELECT id, name, description, price, image FROM products";
     db.query(sql, (err, data) => {
         if (err) {
             console.error(err);
